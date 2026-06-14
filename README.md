@@ -10,7 +10,6 @@
 
 ## Projects
 - Crowd-Less-Melb – Walkability and route planning for older adults
-- Telco Customer Churn Prediction
 - Data Analytics and Machine Learning Portfolio
 - Market research for Australian and Chinese Market
 
